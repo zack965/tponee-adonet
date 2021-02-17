@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tponee-adonet", "tponee\tponee-adonet.csproj", "{0FEF4E3D-0E49-4237-A4CE-954E12BECFD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FEF4E3D-0E49-4237-A4CE-954E12BECFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FEF4E3D-0E49-4237-A4CE-954E12BECFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FEF4E3D-0E49-4237-A4CE-954E12BECFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FEF4E3D-0E49-4237-A4CE-954E12BECFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BF620B-937E-4D72-BC21-F46328695816}
+	EndGlobalSection
+EndGlobal
